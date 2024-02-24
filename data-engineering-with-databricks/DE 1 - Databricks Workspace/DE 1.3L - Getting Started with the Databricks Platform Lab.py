@@ -143,18 +143,6 @@ display(example_df)
 
 # COMMAND ----------
 
-# MAGIC %md
-# MAGIC # El Titulo
-# MAGIC
-# MAGIC <li>
-# MAGIC   1 Carne</li>
-# MAGIC  <li> 
-# MAGIC   2 Pez
-# MAGIC </li>
-# MAGIC
-
-# COMMAND ----------
-
 # DBTITLE 0,--i18n-55b2a6c6-2fc6-4c57-8d6d-94bba244d86e
 # MAGIC %md
 # MAGIC
